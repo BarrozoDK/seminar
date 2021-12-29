@@ -12,7 +12,6 @@ int main(void)
   int temp = y;
   x = y;
   y = temp;
-// im stupid
 
   printf("x is %i\n", x);
   printf("y is %i\n", y);
