@@ -9,7 +9,8 @@
 
 int main(void)
 {
-  int x = 425;
+
+  int x = 55;
   int y = 50;
 
   printf("x is %i\n", x);
